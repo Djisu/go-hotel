@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Djisu/go-hotel/pkg/config"
-	"github.com/Djisu/go-hotel/pkg/handlers"
-	"github.com/Djisu/go-hotel/pkg/render"
+	"github.com/Djisu/go-hotel/internal/config"
+	"github.com/Djisu/go-hotel/internal/handlers"
+	"github.com/Djisu/go-hotel/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
