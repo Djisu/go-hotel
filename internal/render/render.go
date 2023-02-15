@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/Djisu/go-hotel/pkg/config"
-	"github.com/Djisu/go-hotel/pkg/models"
+	"github.com/Djisu/go-hotel/internal/config"
+	"github.com/Djisu/go-hotel/internal/models"
 	"github.com/justinas/nosurf"
 )
 
